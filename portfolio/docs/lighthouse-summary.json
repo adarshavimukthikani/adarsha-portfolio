@@ -1,0 +1,58 @@
+{
+  "verifiedOn": "2026-10-17",
+  "environment": "Local production preview; installed headless Chrome; Lighthouse 13.5.0 defaults",
+  "results": {
+    "desktop": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "display": "0.4 s",
+          "value": 446.45719999999994
+        },
+        "largest-contentful-paint": {
+          "display": "0.6 s",
+          "value": 566.4572
+        },
+        "total-blocking-time": {
+          "display": "0 ms",
+          "value": 0
+        },
+        "cumulative-layout-shift": {
+          "display": "0",
+          "value": 0.0001128733603972801
+        }
+      }
+    },
+    "mobile": {
+      "scores": {
+        "performance": 94,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "display": "2.0 s",
+          "value": 1955.0882
+        },
+        "largest-contentful-paint": {
+          "display": "2.8 s",
+          "value": 2780.0881999999997
+        },
+        "total-blocking-time": {
+          "display": "10 ms",
+          "value": 14
+        },
+        "cumulative-layout-shift": {
+          "display": "0",
+          "value": 0.000101018201857046
+        }
+      }
+    }
+  }
+}

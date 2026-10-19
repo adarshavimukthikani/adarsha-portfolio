@@ -1,0 +1,173 @@
+[
+  {
+    "asset": "images/profile/portrait.webp",
+    "source": "Resources/my image.jpeg"
+  },
+  {
+    "asset": "images/profile/editorial.webp",
+    "source": "portfolio/docs/source/editorial-portrait.png"
+  },
+  {
+    "asset": "images/certificates/cim-social.webp",
+    "source": "Resources/Badges/Screen Shot 2026-10-17 at 7.58.56 AM.png"
+  },
+  {
+    "asset": "images/certificates/cim-responsible.webp",
+    "source": "Resources/Badges/Screen Shot 2026-10-17 at 8.09.09 AM.png"
+  },
+  {
+    "asset": "images/certificates/google-display-badge.webp",
+    "source": "Resources/Badges/Screen Shot 2026-10-17 at 9.00.02 AM.png"
+  },
+  {
+    "asset": "images/certificates/cybersecurity.webp",
+    "source": "Resources/Cetificates/Screen Shot 2026-10-17 at 8.15.20 AM.png"
+  },
+  {
+    "asset": "images/certificates/apidm.webp",
+    "source": "Resources/Cetificates/Screen Shot 2026-10-17 at 8.17.13 AM.png"
+  },
+  {
+    "asset": "images/certificates/cmi-digital.webp",
+    "source": "Resources/Cetificates/Screen Shot 2026-10-17 at 8.27.31 AM.png"
+  },
+  {
+    "asset": "images/certificates/hootsuite-social.webp",
+    "source": "Resources/Cetificates/Screen Shot 2026-10-17 at 8.28.47 AM.png"
+  },
+  {
+    "asset": "images/certificates/ga4.webp",
+    "source": "Resources/Cetificates/Screen Shot 2026-10-17 at 8.29.54 AM.png"
+  },
+  {
+    "asset": "images/certificates/google-display.webp",
+    "source": "Resources/Cetificates/Screen Shot 2026-10-17 at 9.01.22 AM.png"
+  },
+  {
+    "asset": "images/certificates/project-management.webp",
+    "source": "old details/images/project/dp.jpg"
+  },
+  {
+    "asset": "images/certificates/digital-foundations.webp",
+    "source": "old details/images/project/linkedinCertificate.jpeg"
+  },
+  {
+    "asset": "images/certificates/email-marketing.webp",
+    "source": "old details/images/project/Email.jpg"
+  },
+  {
+    "asset": "images/certificates/power-bi.webp",
+    "source": "old details/images/project/powerbi.jpg"
+  },
+  {
+    "asset": "images/certificates/seo.webp",
+    "source": "old details/images/project/seo.jpg"
+  },
+  {
+    "asset": "images/articles/nike.webp",
+    "source": "Resources/Medium/Screen Shot 2026-10-17 at 8.44.42 AM.png"
+  },
+  {
+    "asset": "images/articles/mcdonalds.webp",
+    "source": "Resources/Medium/Screen Shot 2026-10-17 at 8.48.15 AM.png"
+  },
+  {
+    "asset": "images/articles/dove.webp",
+    "source": "Resources/Medium/Screen Shot 2026-10-17 at 8.49.30 AM.png"
+  },
+  {
+    "asset": "images/articles/starbucks.webp",
+    "source": "Resources/Medium/Screen Shot 2026-10-17 at 8.51.55 AM.png"
+  },
+  {
+    "asset": "images/articles/apple.webp",
+    "source": "Resources/Medium/Screen Shot 2026-10-17 at 8.54.49 AM.png"
+  },
+  {
+    "asset": "images/articles/coca-cola.webp",
+    "source": "Resources/Medium/Screen Shot 2026-10-17 at 8.56.10 AM.png"
+  },
+  {
+    "asset": "images/logos/university-of-ruhuna.png",
+    "source": "https://jobs.tec.ruh.ac.lk/images/uor-logo.png",
+    "sourcePage": "https://jobs.tec.ruh.ac.lk/",
+    "retrieved": "2026-10-18",
+    "rights": "Trademark and artwork rights remain with the respective owner. Used to identify education, learning, or software; no endorsement implied."
+  },
+  {
+    "asset": "images/logos/cim.png",
+    "source": "https://www.cim.co.uk/media/xyfbmdjb/cim_logo_blue.png",
+    "sourcePage": "https://www.cim.co.uk/",
+    "retrieved": "2026-10-18",
+    "rights": "Trademark and artwork rights remain with the respective owner. Used to identify education, learning, or software; no endorsement implied."
+  },
+  {
+    "asset": "images/logos/circle-of-marketing.png",
+    "source": "https://www.mgt.ruh.ac.lk/images/management_circle.png",
+    "sourcePage": "https://www.mgt.ruh.ac.lk/index.php/student/study-circles/circle-of-marketing",
+    "retrieved": "2026-10-18",
+    "rights": "Trademark and artwork rights remain with the respective owner. Used to identify education, learning, or software; no endorsement implied."
+  },
+  {
+    "asset": "images/logos/photoshop.png",
+    "source": "old details/images/undraw/photoshop.png",
+    "sourcePage": "https://www.adobe.com/products/photoshop.html",
+    "retrieved": "2026-10-18",
+    "rights": "Trademark and artwork rights remain with the respective owner. Used to identify education, learning, or software; no endorsement implied."
+  },
+  {
+    "asset": "images/logos/canva.svg",
+    "source": "https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg",
+    "sourcePage": "https://www.canva.com/newsroom/news/new-logo-canva/",
+    "retrieved": "2026-10-18",
+    "rights": "Trademark and artwork rights remain with the respective owner. Used to identify education, learning, or software; no endorsement implied."
+  },
+  {
+    "asset": "images/logos/google-ads.svg",
+    "source": "https://www.gstatic.com/images/branding/productlogos/ads/v5/192px.svg",
+    "sourcePage": "https://ads.google.com/home/",
+    "retrieved": "2026-10-18",
+    "rights": "Trademark and artwork rights remain with the respective owner. Used to identify education, learning, or software; no endorsement implied."
+  },
+  {
+    "asset": "images/logos/google-analytics.svg",
+    "source": "https://www.gstatic.com/images/branding/productlogos/google_analytics/v6/192px.svg",
+    "sourcePage": "https://ads.google.com/home/",
+    "retrieved": "2026-10-18",
+    "rights": "Trademark and artwork rights remain with the respective owner. Used to identify education, learning, or software; no endorsement implied."
+  },
+  {
+    "asset": "images/logos/apidm.svg",
+    "source": "https://apidm.asia/wp-content/themes/apidm/assets/images/logo.svg",
+    "sourcePage": "https://apidm.asia/",
+    "retrieved": "2026-10-18",
+    "rights": "Trademark and artwork rights remain with the respective owner. Used to identify education, learning, or software; no endorsement implied."
+  },
+  {
+    "asset": "images/logos/ec-council.webp",
+    "source": "https://cdn.eccouncil.org/wp-content/uploads/2023/01/26065702/ec-council-logo.png.webp",
+    "sourcePage": "https://www.eccouncil.org/",
+    "retrieved": "2026-10-18",
+    "rights": "Trademark and artwork rights remain with the respective owner. Used to identify education, learning, or software; no endorsement implied."
+  },
+  {
+    "asset": "images/logos/university-of-moratuwa.png",
+    "source": "https://www.uom.lk/assets/images/logo_0.png",
+    "sourcePage": "https://www.uom.lk/",
+    "retrieved": "2026-10-18",
+    "rights": "Trademark and artwork rights remain with the respective owner. Used to identify education, learning, or software; no endorsement implied."
+  },
+  {
+    "asset": "images/campus/ruhuna-management.webp",
+    "source": "https://www.mgt.ruh.ac.lk/images/stu-down/Fac_of_MF.jpg",
+    "sourcePage": "https://www.mgt.ruh.ac.lk/",
+    "retrieved": "2026-10-18",
+    "rights": "University website photograph. No open reuse licence was supplied. Copyright remains with its owner. Source credited beside the image."
+  },
+  {
+    "asset": "images/profile/editorial-v3.webp",
+    "source": "docs/source/editorial-v3.png",
+    "method": "Built-in image_gen identity-preserving background edit of the existing editorial portrait; resized and encoded as WebP",
+    "promptRecord": "docs/v3-portrait.md"
+  }
+]

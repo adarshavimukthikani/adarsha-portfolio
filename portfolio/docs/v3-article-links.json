@@ -1,0 +1,141 @@
+{
+  "checkedOn": "2026-10-18",
+  "authorFeed": "https://medium.com/feed/@adarshavimukthikani",
+  "feedHttpStatus": 200,
+  "currentFeedFile": "docs/source/medium-feed-v3.xml",
+  "previousFeedFile": "docs/medium-feed.xml",
+  "notes": [
+    "All titles and canonical URLs are compared exactly, ignoring only the RSS source query parameter.",
+    "A blocked automated article request does not establish that a public article is broken.",
+    "The Dove article was additionally readable through web retrieval and displayed the matching title and author.",
+    "No publication dates or reading times were added or inferred."
+  ],
+  "articles": [
+    {
+      "id": "nike",
+      "url": "https://medium.com/@adarshavimukthikani/nike-just-do-it-campaign-e9cb2a7a41c7",
+      "title": "Nike Just Do It Campaign",
+      "savedFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "Nike Just Do It Campaign"
+      },
+      "currentFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "Nike Just Do It Campaign"
+      },
+      "directRequest": {
+        "status": 403,
+        "finalUrl": "https://medium.com/@adarshavimukthikani/nike-just-do-it-campaign-e9cb2a7a41c7",
+        "accessible": false
+      },
+      "status": "verified-in-current-official-feed"
+    },
+    {
+      "id": "mcdonalds",
+      "url": "https://medium.com/@adarshavimukthikani/mcdonalds-i-m-lovin-it-campaign-02b575398dbb",
+      "title": "McDonald’s i’m lovin’ it Campaign",
+      "savedFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "McDonald’s i’m lovin’ it Campaign"
+      },
+      "currentFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "McDonald’s i’m lovin’ it Campaign"
+      },
+      "directRequest": {
+        "status": 403,
+        "finalUrl": "https://medium.com/@adarshavimukthikani/mcdonalds-i-m-lovin-it-campaign-02b575398dbb",
+        "accessible": false
+      },
+      "status": "verified-in-current-official-feed"
+    },
+    {
+      "id": "dove",
+      "url": "https://medium.com/@adarshavimukthikani/the-dove-real-beauty-campaign-01e302dd3f44",
+      "title": "The Dove Real Beauty Campaign",
+      "savedFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "The Dove Real Beauty Campaign"
+      },
+      "currentFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "The Dove Real Beauty Campaign"
+      },
+      "directRequest": {
+        "status": 403,
+        "finalUrl": "https://medium.com/@adarshavimukthikani/the-dove-real-beauty-campaign-01e302dd3f44",
+        "accessible": false
+      },
+      "status": "verified-in-current-official-feed"
+    },
+    {
+      "id": "starbucks",
+      "url": "https://medium.com/@adarshavimukthikani/the-starbucks-red-cup-campaign-830d80df2e9b",
+      "title": "The Starbucks Red Cup Campaign",
+      "savedFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "The Starbucks Red Cup Campaign"
+      },
+      "currentFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "The Starbucks Red Cup Campaign"
+      },
+      "directRequest": {
+        "status": 403,
+        "finalUrl": "https://medium.com/@adarshavimukthikani/the-starbucks-red-cup-campaign-830d80df2e9b",
+        "accessible": false
+      },
+      "status": "verified-in-current-official-feed"
+    },
+    {
+      "id": "apple",
+      "url": "https://medium.com/@adarshavimukthikani/shot-on-iphone-campaign-72e1c6294799",
+      "title": "Shot On iPhone Campaign",
+      "savedFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "Shot On iPhone Campaign"
+      },
+      "currentFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "Shot On iPhone Campaign"
+      },
+      "directRequest": {
+        "status": 403,
+        "finalUrl": "https://medium.com/@adarshavimukthikani/shot-on-iphone-campaign-72e1c6294799",
+        "accessible": false
+      },
+      "status": "verified-in-current-official-feed"
+    },
+    {
+      "id": "coca-cola",
+      "url": "https://medium.com/@adarshavimukthikani/coca-cola-share-a-coke-campaign-4616d66abfd7",
+      "title": "Coca-Cola Share a coke Campaign",
+      "savedFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "Coca-Cola Share a coke Campaign"
+      },
+      "currentFeed": {
+        "urlMatch": true,
+        "titleMatch": true,
+        "title": "Coca-Cola Share a coke Campaign"
+      },
+      "directRequest": {
+        "status": 403,
+        "finalUrl": "https://medium.com/@adarshavimukthikani/coca-cola-share-a-coke-campaign-4616d66abfd7",
+        "accessible": false
+      },
+      "status": "verified-in-current-official-feed"
+    }
+  ]
+}

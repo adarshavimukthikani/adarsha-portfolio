@@ -1,0 +1,1412 @@
+{
+  "routes": [
+    {
+      "url": "/",
+      "page": "home",
+      "title": "Home | Adarsha Vimukthikani",
+      "heading": "A curious mind.\nA creative\nperspective."
+    },
+    {
+      "url": "/about",
+      "page": "about",
+      "title": "About | Adarsha Vimukthikani",
+      "heading": "Business-minded.\nCreatively curious."
+    },
+    {
+      "url": "/work",
+      "page": "work",
+      "title": "Work | Adarsha Vimukthikani",
+      "heading": "Public Relations\nCoordinator."
+    },
+    {
+      "url": "/skills",
+      "page": "skills",
+      "title": "Skills | Adarsha Vimukthikani",
+      "heading": "Business thinking.\nCreative expression."
+    },
+    {
+      "url": "/education",
+      "page": "education",
+      "title": "Education | Adarsha Vimukthikani",
+      "heading": "An academic foundation.\nA marketing direction."
+    },
+    {
+      "url": "/credentials",
+      "page": "credentials",
+      "title": "Credentials | Adarsha Vimukthikani",
+      "heading": "Learning, with\nsomething to show."
+    },
+    {
+      "url": "/articles",
+      "page": "articles",
+      "title": "Articles | Adarsha Vimukthikani",
+      "heading": "Notes on brands.\nAnd why they connect."
+    },
+    {
+      "url": "/contact",
+      "page": "contact",
+      "title": "Contact | Adarsha Vimukthikani",
+      "heading": "Good conversations\nstart somewhere."
+    }
+  ],
+  "viewports": [
+    {
+      "route": "/",
+      "width": 1440,
+      "theme": "light",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "class": "marquee-track",
+          "right": 2512.03125
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 2512.03125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1651.40625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1651.40625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1867.046875
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1867.046875
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 2171.5
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 2171.5
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 2467.03125
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 2467.03125
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "theme": "light",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/work",
+      "width": 1440,
+      "theme": "light",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/skills",
+      "width": 1440,
+      "theme": "light",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/education",
+      "width": 1440,
+      "theme": "light",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/credentials",
+      "width": 1440,
+      "theme": "light",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/articles",
+      "width": 1440,
+      "theme": "light",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "theme": "light",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "theme": "dark",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "class": "marquee-track",
+          "right": 2512.03125
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 2512.03125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1651.40625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1651.40625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1867.046875
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1867.046875
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 2171.5
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 2171.5
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 2467.03125
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 2467.03125
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "theme": "dark",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/work",
+      "width": 1440,
+      "theme": "dark",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/skills",
+      "width": 1440,
+      "theme": "dark",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/education",
+      "width": 1440,
+      "theme": "dark",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/credentials",
+      "width": 1440,
+      "theme": "dark",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/articles",
+      "width": 1440,
+      "theme": "dark",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "theme": "dark",
+      "viewport": 1440,
+      "document": 1440,
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "theme": "light",
+      "viewport": 390,
+      "document": 390,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "class": "marquee-track",
+          "right": 1870.625
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 935.3125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 453.0625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 453.0625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 685.484375
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 685.484375
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 910.3125
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 910.3125
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 1870.625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1065.265625
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "theme": "light",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/work",
+      "width": 390,
+      "theme": "light",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/skills",
+      "width": 390,
+      "theme": "light",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/education",
+      "width": 390,
+      "theme": "light",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/credentials",
+      "width": 390,
+      "theme": "light",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/articles",
+      "width": 390,
+      "theme": "light",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "theme": "light",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "theme": "dark",
+      "viewport": 390,
+      "document": 390,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "class": "marquee-track",
+          "right": 1870.625
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 935.3125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 453.0625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 453.0625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 685.484375
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 685.484375
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 910.3125
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 910.3125
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 1870.625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1065.265625
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "theme": "dark",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/work",
+      "width": 390,
+      "theme": "dark",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/skills",
+      "width": 390,
+      "theme": "dark",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/education",
+      "width": 390,
+      "theme": "dark",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/credentials",
+      "width": 390,
+      "theme": "dark",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/articles",
+      "width": 390,
+      "theme": "dark",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "theme": "dark",
+      "viewport": 390,
+      "document": 390,
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 320,
+      "theme": "light",
+      "viewport": 320,
+      "document": 320,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "class": "marquee-track",
+          "right": 1870.625
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 935.3125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 453.0625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 453.0625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 685.484375
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 685.484375
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 910.3125
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 910.3125
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 1870.625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1065.265625
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 320,
+      "theme": "light",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/work",
+      "width": 320,
+      "theme": "light",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/skills",
+      "width": 320,
+      "theme": "light",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/education",
+      "width": 320,
+      "theme": "light",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/credentials",
+      "width": 320,
+      "theme": "light",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/articles",
+      "width": 320,
+      "theme": "light",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 320,
+      "theme": "light",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 320,
+      "theme": "dark",
+      "viewport": 320,
+      "document": 320,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "class": "marquee-track",
+          "right": 1870.625
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 935.3125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 453.0625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 453.0625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 685.484375
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 685.484375
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 910.3125
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 910.3125
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 1870.625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1065.265625
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 320,
+      "theme": "dark",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/work",
+      "width": 320,
+      "theme": "dark",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/skills",
+      "width": 320,
+      "theme": "dark",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/education",
+      "width": 320,
+      "theme": "dark",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/credentials",
+      "width": 320,
+      "theme": "dark",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/articles",
+      "width": 320,
+      "theme": "dark",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 320,
+      "theme": "dark",
+      "viewport": 320,
+      "document": 320,
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "theme": "light",
+      "viewport": 768,
+      "document": 768,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "class": "marquee-track",
+          "right": 2512.03125
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 1256.015625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 915.484375
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 915.484375
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1211.015625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1211.015625
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 2512.03125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1424.53125
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1424.53125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1651.40625
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 768,
+      "theme": "light",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/work",
+      "width": 768,
+      "theme": "light",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/skills",
+      "width": 768,
+      "theme": "light",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/education",
+      "width": 768,
+      "theme": "light",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/credentials",
+      "width": 768,
+      "theme": "light",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/articles",
+      "width": 768,
+      "theme": "light",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 768,
+      "theme": "light",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "theme": "dark",
+      "viewport": 768,
+      "document": 768,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "class": "marquee-track",
+          "right": 2512.03125
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 1256.015625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 915.484375
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 915.484375
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1211.015625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1211.015625
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 2512.03125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1424.53125
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1424.53125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1651.40625
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 768,
+      "theme": "dark",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/work",
+      "width": 768,
+      "theme": "dark",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/skills",
+      "width": 768,
+      "theme": "dark",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/education",
+      "width": 768,
+      "theme": "dark",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/credentials",
+      "width": 768,
+      "theme": "dark",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/articles",
+      "width": 768,
+      "theme": "dark",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 768,
+      "theme": "dark",
+      "viewport": 768,
+      "document": 768,
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "theme": "light",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "class": "marquee-track",
+          "right": 2512.03125
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 1256.015625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1211.015625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1211.015625
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 2512.03125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1424.53125
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1424.53125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1651.40625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1651.40625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1867.046875
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 1024,
+      "theme": "light",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/work",
+      "width": 1024,
+      "theme": "light",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/skills",
+      "width": 1024,
+      "theme": "light",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/education",
+      "width": 1024,
+      "theme": "light",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/credentials",
+      "width": 1024,
+      "theme": "light",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/articles",
+      "width": 1024,
+      "theme": "light",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 1024,
+      "theme": "light",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "theme": "dark",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": [
+        {
+          "tag": "DIV",
+          "class": "marquee-track",
+          "right": 2512.03125
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 1256.015625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1211.015625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1211.015625
+        },
+        {
+          "tag": "DIV",
+          "class": "marquee-group",
+          "right": 2512.03125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1424.53125
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1424.53125
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1651.40625
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "right": 1651.40625
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "right": 1867.046875
+        }
+      ]
+    },
+    {
+      "route": "/about",
+      "width": 1024,
+      "theme": "dark",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/work",
+      "width": 1024,
+      "theme": "dark",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/skills",
+      "width": 1024,
+      "theme": "dark",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/education",
+      "width": 1024,
+      "theme": "dark",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/credentials",
+      "width": 1024,
+      "theme": "dark",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/articles",
+      "width": 1024,
+      "theme": "dark",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    },
+    {
+      "route": "/contact",
+      "width": 1024,
+      "theme": "dark",
+      "viewport": 1024,
+      "document": 1024,
+      "overflow": []
+    }
+  ],
+  "checks": [
+    "All seven navigation destinations change URLs and content, reset scroll, and update active NavLink; logo returns Home. Home contains curated previews.",
+    "Production static rewrites serve direct routes, including Education; Articles refresh, history back/forward, and theme persistence across routes and refresh pass.",
+    "CIM is in progress, seven published modules are labelled curriculum overview, and native module expansions work.",
+    "Badge / certificate / additional-learning galleries, all filters, expired Google status, full-size dialog, keyboard focus trap, Escape, and focus restoration pass.",
+    "Contact mailto and clipboard actions, accessible feedback, mobile menu, Escape dismissal, and mobile route navigation pass.",
+    "Unknown URL renders a real 404 page with a working return link; reduced-motion marquee is static.",
+    "Normal-motion hero, route entrance, and education scroll reveal finish correctly."
+  ],
+  "accessibility": [
+    {
+      "route": "/",
+      "width": 1440,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/work",
+      "width": 1440,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/skills",
+      "width": 1440,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/education",
+      "width": 1440,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/credentials",
+      "width": 1440,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/articles",
+      "width": 1440,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/work",
+      "width": 1440,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/skills",
+      "width": 1440,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/education",
+      "width": 1440,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/credentials",
+      "width": 1440,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/articles",
+      "width": 1440,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/work",
+      "width": 390,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/skills",
+      "width": 390,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/education",
+      "width": 390,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/credentials",
+      "width": 390,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/articles",
+      "width": 390,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/work",
+      "width": 390,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/skills",
+      "width": 390,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/education",
+      "width": 390,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/credentials",
+      "width": 390,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/articles",
+      "width": 390,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "context": "Credential dialog",
+      "violations": []
+    }
+  ],
+  "errors": []
+}

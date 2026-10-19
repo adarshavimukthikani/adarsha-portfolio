@@ -1,0 +1,86 @@
+{
+  "validatedOn": "2026-10-19",
+  "timezone": "Asia/Colombo",
+  "productionBuild": "passed",
+  "contentCheck": "passed",
+  "routes": [
+    {
+      "url": "/",
+      "page": "home",
+      "title": "Home | Adarsha Vimukthikani",
+      "heading": "Business\nmind.\nCreative eye."
+    },
+    {
+      "url": "/about",
+      "page": "about",
+      "title": "About | Adarsha Vimukthikani",
+      "heading": "A business mind.\nAn inquisitive\ncreative side."
+    },
+    {
+      "url": "/work",
+      "page": "work",
+      "title": "Work | Adarsha Vimukthikani",
+      "heading": "Good communication.\nMeaningful connections."
+    },
+    {
+      "url": "/skills",
+      "page": "skills",
+      "title": "Skills | Adarsha Vimukthikani",
+      "heading": "Thinking it through.\nMaking it connect."
+    },
+    {
+      "url": "/education",
+      "page": "education",
+      "title": "Education | Adarsha Vimukthikani",
+      "heading": "A strong foundation.\nAn open mind."
+    },
+    {
+      "url": "/credentials",
+      "page": "credentials",
+      "title": "Credentials | Adarsha Vimukthikani",
+      "heading": "Curiosity, backed\nby learning."
+    },
+    {
+      "url": "/articles",
+      "page": "articles",
+      "title": "Articles | Adarsha Vimukthikani",
+      "heading": "Some campaigns stay\nwith us. Here’s why."
+    },
+    {
+      "url": "/contact",
+      "page": "contact",
+      "title": "Contact | Adarsha Vimukthikani",
+      "heading": "Let’s make\na connection."
+    }
+  ],
+  "responsiveChecks": 80,
+  "viewports": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "consoleErrors": 0,
+  "automatedAccessibilityViolations": 0,
+  "checks": [
+    "All seven navigation destinations change URLs and content, reset scroll, and update active NavLink; logo returns Home. Home contains curated previews.",
+    "Production static rewrites serve direct routes, including Education; Articles refresh, history back/forward, and theme persistence across routes and refresh pass.",
+    "CIM is in progress, seven published modules are labelled curriculum overview, and native module expansions work.",
+    "Badge / certificate / additional-learning galleries, all filters, expired Google status, full-size dialog, keyboard focus trap, Escape, and focus restoration pass.",
+    "Contact mailto and clipboard actions, accessible feedback, mobile menu, Escape dismissal, and mobile route navigation pass.",
+    "Unknown URL renders a real 404 page with a working return link; reduced-motion marquee is static.",
+    "Normal-motion hero, route entrance, and education scroll reveal finish correctly.",
+    "Saved theme applies in the HTML before the React bundle loads, including a dark preference with a light OS theme."
+  ],
+  "screenshots": "test-results/v4/",
+  "originalPhoto": "Home only",
+  "campusImage": "Excluded from source and production assets",
+  "hosting": "Netlify and Vercel fallbacks configured; locally tested; not externally deployed",
+  "articleLinkEvidence": "Six canonical URLs match saved official author feeds; live retrieval restricted",
+  "backupBytes": 1632349
+}
